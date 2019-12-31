@@ -2,26 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e8816cb-6d75-4f76-ab29-a5bcec31196b" name="Default Changelist" comment="全局配置文件">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/controller/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/exception/NotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/handler/ControllerExceptionHandeler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/error/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/error/500.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/error/error.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_1_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/aspect/LogAspect.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/blog.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/blog.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/blog.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edjblog/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/edjblog/controller/IndexController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edjblog/controller/IndexController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/error/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/error/404.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +62,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/templates" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunManager" selected="Spring Boot.BlogApplication (1)">
@@ -125,7 +116,7 @@
       <updated>1577761630350</updated>
       <workItem from="1577761633705" duration="1455000" />
       <workItem from="1577763758267" duration="10025000" />
-      <workItem from="1577795256383" duration="71000" />
+      <workItem from="1577795256383" duration="5297000" />
     </task>
     <task id="LOCAL-00001" summary="swagger配置文件">
       <created>1577765947168</created>
@@ -187,10 +178,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="863" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1577774681486" />
-    <state x="918" y="153" key="#com.intellij.ide.util.MemberChooser" timestamp="1577775530314">
+    <state x="872" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1577799158715">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="918" y="153" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1577775530314" />
+    <state x="872" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1577799158715" />
     <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1577766065033">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -203,38 +194,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577763863063" />
-    <state width="1322" height="217" key="GridCell.Tab.0.bottom" timestamp="1577776305804">
+    <state width="1306" height="207" key="GridCell.Tab.0.bottom" timestamp="1577799816981">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="217" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577776305804" />
-    <state width="1322" height="217" key="GridCell.Tab.0.center" timestamp="1577776305804">
+    <state width="1306" height="207" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577799816981" />
+    <state width="1306" height="207" key="GridCell.Tab.0.center" timestamp="1577799816981">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="217" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577776305804" />
-    <state width="1322" height="217" key="GridCell.Tab.0.left" timestamp="1577776305804">
+    <state width="1306" height="207" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577799816981" />
+    <state width="1306" height="207" key="GridCell.Tab.0.left" timestamp="1577799816981">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="217" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577776305804" />
-    <state width="1322" height="217" key="GridCell.Tab.0.right" timestamp="1577776305804">
+    <state width="1306" height="207" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577799816981" />
+    <state width="1306" height="207" key="GridCell.Tab.0.right" timestamp="1577799816981">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="217" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577776305804" />
-    <state width="1322" height="217" key="GridCell.Tab.1.bottom" timestamp="1577776305805">
+    <state width="1306" height="207" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577799816981" />
+    <state width="1306" height="207" key="GridCell.Tab.1.bottom" timestamp="1577799816982">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="217" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577776305805" />
-    <state width="1322" height="217" key="GridCell.Tab.1.center" timestamp="1577776305805">
+    <state width="1306" height="207" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577799816982" />
+    <state width="1306" height="207" key="GridCell.Tab.1.center" timestamp="1577799816982">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="217" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577776305805" />
-    <state width="1322" height="217" key="GridCell.Tab.1.left" timestamp="1577776305804">
+    <state width="1306" height="207" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577799816982" />
+    <state width="1306" height="207" key="GridCell.Tab.1.left" timestamp="1577799816982">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="217" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577776305804" />
-    <state width="1322" height="217" key="GridCell.Tab.1.right" timestamp="1577776305805">
+    <state width="1306" height="207" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577799816982" />
+    <state width="1306" height="207" key="GridCell.Tab.1.right" timestamp="1577799816982">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="217" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577776305805" />
+    <state width="1306" height="207" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577799816982" />
     <state width="1322" height="217" key="GridCell.Tab.2.bottom" timestamp="1577776305805">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -271,10 +262,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="448" y="81" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1577764969476" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1577772477668">
+    <state x="96" y="25" key="new project wizard" timestamp="1577797523471">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1577772477668" />
+    <state x="96" y="25" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1577797523471" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1577799494872">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1577799494872" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
