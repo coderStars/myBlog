@@ -1,0 +1,21 @@
+2019-12-31 13:38:10.548  INFO 10780 --- [restartedMain] com.edjblog.BlogApplication              : Starting BlogApplication on CY-20180316QHMS with PID 10780 (started by Administrator in D:\IntelliJ IDEA\workSpace_idea\blog)
+2019-12-31 13:38:10.553 DEBUG 10780 --- [restartedMain] com.edjblog.BlogApplication              : Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2019-12-31 13:38:10.554  INFO 10780 --- [restartedMain] com.edjblog.BlogApplication              : No active profile set, falling back to default profiles: default
+2019-12-31 13:38:10.682  INFO 10780 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-12-31 13:38:10.683  INFO 10780 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-12-31 13:38:12.508  WARN 10780 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.edjblog]' package. Please check your configuration.
+2019-12-31 13:38:12.706  INFO 10780 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-12-31 13:38:13.060  INFO 10780 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-12-31 13:38:13.073  INFO 10780 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-31 13:38:13.074  INFO 10780 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2019-12-31 13:38:13.180  INFO 10780 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-31 13:38:13.180  INFO 10780 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2495 ms
+2019-12-31 13:38:13.620  INFO 10780 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2019-12-31 13:38:13.731  INFO 10780 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-31 13:38:13.775  INFO 10780 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-12-31 13:38:14.193  INFO 10780 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2019-12-31 13:38:14.213  INFO 10780 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2019-12-31 13:38:14.245  INFO 10780 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2019-12-31 13:38:14.752  INFO 10780 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-12-31 13:38:14.770  INFO 10780 --- [restartedMain] com.edjblog.BlogApplication              : Started BlogApplication in 4.954 seconds (JVM running for 6.432)
+2019-12-31 13:38:24.769  INFO 10780 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
