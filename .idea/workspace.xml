@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e8816cb-6d75-4f76-ab29-a5bcec31196b" name="Default Changelist" comment="全局配置文件">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/aspect/LogAspect.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/blog.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/blog.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/blog.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edjblog/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/controller/IndexController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/edjblog/controller/IndexController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edjblog/controller/IndexController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/error/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/error/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edjblog/handler/ControllerExceptionHandeler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/handler/ControllerExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/edjblog/handler/ControllerExceptionHandeler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +61,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/templates" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ IDEA\workSpace_idea\blog\src\main\resources\templates" />
+      <recent name="D:\IntelliJ IDEA\workSpace_idea\blog\src\main\resources\static" />
+    </key>
+  </component>
   <component name="RunManager" selected="Spring Boot.BlogApplication (1)">
     <configuration name="BlogApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="blog" />
@@ -116,7 +118,7 @@
       <updated>1577761630350</updated>
       <workItem from="1577761633705" duration="1455000" />
       <workItem from="1577763758267" duration="10025000" />
-      <workItem from="1577795256383" duration="5297000" />
+      <workItem from="1577795256383" duration="6574000" />
     </task>
     <task id="LOCAL-00001" summary="swagger配置文件">
       <created>1577765947168</created>
@@ -182,6 +184,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="872" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1577799158715" />
+    <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577801083610">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1577801083610" />
     <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1577766065033">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -194,38 +200,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577763863063" />
-    <state width="1306" height="207" key="GridCell.Tab.0.bottom" timestamp="1577799816981">
+    <state width="1322" height="207" key="GridCell.Tab.0.bottom" timestamp="1577802095838">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="207" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577799816981" />
-    <state width="1306" height="207" key="GridCell.Tab.0.center" timestamp="1577799816981">
+    <state width="1322" height="207" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577802095838" />
+    <state width="1322" height="207" key="GridCell.Tab.0.center" timestamp="1577802095838">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="207" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577799816981" />
-    <state width="1306" height="207" key="GridCell.Tab.0.left" timestamp="1577799816981">
+    <state width="1322" height="207" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577802095838" />
+    <state width="1322" height="207" key="GridCell.Tab.0.left" timestamp="1577802095837">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="207" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577799816981" />
-    <state width="1306" height="207" key="GridCell.Tab.0.right" timestamp="1577799816981">
+    <state width="1322" height="207" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577802095837" />
+    <state width="1322" height="207" key="GridCell.Tab.0.right" timestamp="1577802095838">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="207" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577799816981" />
-    <state width="1306" height="207" key="GridCell.Tab.1.bottom" timestamp="1577799816982">
+    <state width="1322" height="207" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577802095838" />
+    <state width="1322" height="207" key="GridCell.Tab.1.bottom" timestamp="1577802095839">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="207" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577799816982" />
-    <state width="1306" height="207" key="GridCell.Tab.1.center" timestamp="1577799816982">
+    <state width="1322" height="207" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577802095839" />
+    <state width="1322" height="207" key="GridCell.Tab.1.center" timestamp="1577802095839">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="207" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577799816982" />
-    <state width="1306" height="207" key="GridCell.Tab.1.left" timestamp="1577799816982">
+    <state width="1322" height="207" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577802095839" />
+    <state width="1322" height="207" key="GridCell.Tab.1.left" timestamp="1577802095839">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="207" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577799816982" />
-    <state width="1306" height="207" key="GridCell.Tab.1.right" timestamp="1577799816982">
+    <state width="1322" height="207" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577802095839" />
+    <state width="1322" height="207" key="GridCell.Tab.1.right" timestamp="1577802095839">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="207" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577799816982" />
+    <state width="1322" height="207" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577802095839" />
     <state width="1322" height="217" key="GridCell.Tab.2.bottom" timestamp="1577776305805">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

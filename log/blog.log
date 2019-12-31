@@ -2012,3 +2012,131 @@ com.edjblog.exception.NotFoundException: 博客找不到啦
 2019-12-31 21:43:54.378  3828 --- [http-nio-8080-exec-1] com.edjblog.aspect.LogAspect             : =========deAfter==========
 2019-12-31 21:43:54.379  3828 --- [http-nio-8080-exec-1] com.edjblog.aspect.LogAspect             : Result:index
 2019-12-31 21:57:42.501  3828 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-12-31 22:03:09.014  8404 --- [restartedMain] com.edjblog.BlogApplication              : Starting BlogApplication on CY-20180316QHMS with PID 8404 (started by Administrator in D:\IntelliJ IDEA\workSpace_idea\blog)
+2019-12-31 22:03:09.022  8404 --- [restartedMain] com.edjblog.BlogApplication              : Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2019-12-31 22:03:09.022  8404 --- [restartedMain] com.edjblog.BlogApplication              : No active profile set, falling back to default profiles: default
+2019-12-31 22:03:09.121  8404 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-12-31 22:03:09.121  8404 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-12-31 22:03:11.702  8404 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.edjblog]' package. Please check your configuration.
+2019-12-31 22:03:12.022  8404 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-12-31 22:03:12.722  8404 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-12-31 22:03:12.736  8404 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-31 22:03:12.736  8404 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2019-12-31 22:03:12.857  8404 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-31 22:03:12.857  8404 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3736 ms
+2019-12-31 22:03:13.793  8404 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2019-12-31 22:03:14.047  8404 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-31 22:03:14.145  8404 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-12-31 22:03:14.198  8404 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-12-31 22:03:14.954  8404 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2019-12-31 22:03:14.978  8404 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2019-12-31 22:03:15.022  8404 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2019-12-31 22:03:15.326  8404 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-12-31 22:03:15.329  8404 --- [restartedMain] com.edjblog.BlogApplication              : Started BlogApplication in 7.223 seconds (JVM running for 9.551)
+2019-12-31 22:03:24.515  8404 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-12-31 22:03:24.515  8404 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-12-31 22:03:24.535  8404 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 20 ms
+2019-12-31 22:03:41.644  8404 --- [http-nio-8080-exec-3] com.edjblog.aspect.LogAspect             : Result:RequestLog{url='http://localhost:8080/3/name', ip='0:0:0:0:0:0:0:1', classMethod='com.edjblog.controller.IndexController.index', args=[3, name]}
+2019-12-31 22:03:41.655  8404 --- [http-nio-8080-exec-3] com.edjblog.aspect.LogAspect             : =========deAfter==========
+2019-12-31 22:03:41.656  8404 --- [http-nio-8080-exec-3] com.edjblog.aspect.LogAspect             : Result:index
+2019-12-31 22:03:54.976  8404 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-12-31 22:05:41.410  3600 --- [restartedMain] com.edjblog.BlogApplication              : Starting BlogApplication on CY-20180316QHMS with PID 3600 (started by Administrator in D:\IntelliJ IDEA\workSpace_idea\blog)
+2019-12-31 22:05:41.414  3600 --- [restartedMain] com.edjblog.BlogApplication              : Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2019-12-31 22:05:41.415  3600 --- [restartedMain] com.edjblog.BlogApplication              : No active profile set, falling back to default profiles: default
+2019-12-31 22:05:41.531  3600 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-12-31 22:05:41.531  3600 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-12-31 22:05:42.845  3600 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.edjblog]' package. Please check your configuration.
+2019-12-31 22:05:43.090  3600 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-12-31 22:05:43.751  3600 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-12-31 22:05:43.765  3600 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-31 22:05:43.766  3600 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2019-12-31 22:05:43.868  3600 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-31 22:05:43.869  3600 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2338 ms
+2019-12-31 22:05:44.638  3600 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2019-12-31 22:05:44.845  3600 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-31 22:05:44.928  3600 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-12-31 22:05:44.977  3600 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-12-31 22:05:45.485  3600 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2019-12-31 22:05:45.504  3600 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2019-12-31 22:05:45.539  3600 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2019-12-31 22:05:45.837  3600 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-12-31 22:05:45.841  3600 --- [restartedMain] com.edjblog.BlogApplication              : Started BlogApplication in 5.139 seconds (JVM running for 6.638)
+2019-12-31 22:05:49.447  3600 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-12-31 22:05:49.447  3600 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-12-31 22:05:49.465  3600 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 18 ms
+2019-12-31 22:05:49.503  3600 --- [http-nio-8080-exec-1] com.edjblog.aspect.LogAspect             : Result:RequestLog{url='http://localhost:8080/3/name', ip='0:0:0:0:0:0:0:1', classMethod='com.edjblog.controller.IndexController.index', args=[3, name]}
+2019-12-31 22:05:49.510  3600 --- [http-nio-8080-exec-1] com.edjblog.aspect.LogAspect             : =========deAfter==========
+2019-12-31 22:05:49.511  3600 --- [http-nio-8080-exec-1] com.edjblog.aspect.LogAspect             : Result:index
+2019-12-31 22:06:00.898  3600 --- [http-nio-8080-exec-4] com.edjblog.aspect.LogAspect             : Result:RequestLog{url='http://localhost:8080/3/name', ip='0:0:0:0:0:0:0:1', classMethod='com.edjblog.controller.IndexController.index', args=[3, name]}
+2019-12-31 22:06:00.899  3600 --- [http-nio-8080-exec-4] com.edjblog.aspect.LogAspect             : =========deAfter==========
+2019-12-31 22:06:00.900  3600 --- [http-nio-8080-exec-4] com.edjblog.aspect.LogAspect             : Result:index
+2019-12-31 22:06:22.873  3600 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-12-31 22:11:31.518  7772 --- [restartedMain] com.edjblog.BlogApplication              : Starting BlogApplication on CY-20180316QHMS with PID 7772 (started by Administrator in D:\IntelliJ IDEA\workSpace_idea\blog)
+2019-12-31 22:11:31.527  7772 --- [restartedMain] com.edjblog.BlogApplication              : Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2019-12-31 22:11:31.529  7772 --- [restartedMain] com.edjblog.BlogApplication              : No active profile set, falling back to default profiles: default
+2019-12-31 22:11:31.618  7772 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-12-31 22:11:31.639  7772 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-12-31 22:11:33.798  7772 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.edjblog]' package. Please check your configuration.
+2019-12-31 22:11:34.118  7772 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-12-31 22:11:34.815  7772 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-12-31 22:11:34.829  7772 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-31 22:11:34.830  7772 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2019-12-31 22:11:35.004  7772 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-31 22:11:35.005  7772 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3365 ms
+2019-12-31 22:11:36.265  7772 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2019-12-31 22:11:36.969  7772 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-31 22:11:37.177  7772 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-12-31 22:11:37.290  7772 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-12-31 22:11:38.158  7772 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2019-12-31 22:11:38.186  7772 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2019-12-31 22:11:38.235  7772 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2019-12-31 22:11:38.536  7772 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-12-31 22:11:38.540  7772 --- [restartedMain] com.edjblog.BlogApplication              : Started BlogApplication in 8.066 seconds (JVM running for 10.745)
+2019-12-31 22:11:41.264  7772 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-12-31 22:12:26.036  4276 --- [restartedMain] com.edjblog.BlogApplication              : Starting BlogApplication on CY-20180316QHMS with PID 4276 (started by Administrator in D:\IntelliJ IDEA\workSpace_idea\blog)
+2019-12-31 22:12:26.043  4276 --- [restartedMain] com.edjblog.BlogApplication              : Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2019-12-31 22:12:26.044  4276 --- [restartedMain] com.edjblog.BlogApplication              : No active profile set, falling back to default profiles: default
+2019-12-31 22:12:26.169  4276 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-12-31 22:12:26.169  4276 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-12-31 22:12:28.493  4276 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.edjblog]' package. Please check your configuration.
+2019-12-31 22:12:28.815  4276 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-12-31 22:12:29.517  4276 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-12-31 22:12:29.528  4276 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-31 22:12:29.529  4276 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2019-12-31 22:12:29.625  4276 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-31 22:12:29.625  4276 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3455 ms
+2019-12-31 22:12:30.432  4276 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2019-12-31 22:12:30.672  4276 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-31 22:12:30.777  4276 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-12-31 22:12:30.827  4276 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-12-31 22:12:31.516  4276 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2019-12-31 22:12:31.545  4276 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2019-12-31 22:12:31.591  4276 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2019-12-31 22:12:31.891  4276 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-12-31 22:12:31.896  4276 --- [restartedMain] com.edjblog.BlogApplication              : Started BlogApplication in 6.98 seconds (JVM running for 9.042)
+2019-12-31 22:12:36.911  4276 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-12-31 22:12:36.912  4276 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-12-31 22:12:36.931  4276 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 19 ms
+2019-12-31 22:12:36.977  4276 --- [http-nio-8080-exec-1] com.edjblog.aspect.LogAspect             : Result:RequestLog{url='http://localhost:8080/3/name', ip='0:0:0:0:0:0:0:1', classMethod='com.edjblog.controller.IndexController.index', args=[3, name]}
+2019-12-31 22:12:36.986  4276 --- [http-nio-8080-exec-1] com.edjblog.aspect.LogAspect             : =========deAfter==========
+2019-12-31 22:12:36.987  4276 --- [http-nio-8080-exec-1] com.edjblog.aspect.LogAspect             : Result:index
+2019-12-31 22:12:37.423  4276 --- [http-nio-8080-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "css"]
+2019-12-31 22:12:37.583  4276 --- [http-nio-8080-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "images"]
+2019-12-31 22:12:37.583  4276 --- [http-nio-8080-exec-3] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "images"]
+2019-12-31 22:15:21.456  4276 --- [http-nio-8080-exec-7] com.edjblog.aspect.LogAspect             : Result:RequestLog{url='http://localhost:8080/3/name', ip='0:0:0:0:0:0:0:1', classMethod='com.edjblog.controller.IndexController.index', args=[3, name]}
+2019-12-31 22:15:21.457  4276 --- [http-nio-8080-exec-7] com.edjblog.aspect.LogAspect             : =========deAfter==========
+2019-12-31 22:15:21.458  4276 --- [http-nio-8080-exec-7] com.edjblog.aspect.LogAspect             : Result:index
+2019-12-31 22:15:21.508  4276 --- [http-nio-8080-exec-8] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "css"]
+2019-12-31 22:15:21.527  4276 --- [http-nio-8080-exec-9] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "images"]
+2019-12-31 22:15:21.529  4276 --- [http-nio-8080-exec-10] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "images"]
+2019-12-31 22:15:23.091  4276 --- [http-nio-8080-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "css"]
+2019-12-31 22:15:48.521  4276 --- [http-nio-8080-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "css"]
+2019-12-31 22:17:59.789  4276 --- [http-nio-8080-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "images"]
+2019-12-31 22:19:22.801  4276 --- [http-nio-8080-exec-6] com.edjblog.aspect.LogAspect             : Result:RequestLog{url='http://localhost:8080/3/name', ip='0:0:0:0:0:0:0:1', classMethod='com.edjblog.controller.IndexController.index', args=[3, name]}
+2019-12-31 22:19:22.802  4276 --- [http-nio-8080-exec-6] com.edjblog.aspect.LogAspect             : =========deAfter==========
+2019-12-31 22:19:22.802  4276 --- [http-nio-8080-exec-6] com.edjblog.aspect.LogAspect             : Result:index
+2019-12-31 22:19:22.853  4276 --- [http-nio-8080-exec-7] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "css"]
+2019-12-31 22:19:22.878  4276 --- [http-nio-8080-exec-8] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "images"]
+2019-12-31 22:19:22.892  4276 --- [http-nio-8080-exec-8] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "images"]
+2019-12-31 22:21:12.150  4276 --- [http-nio-8080-exec-10] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "images"]
+2019-12-31 22:21:18.793  4276 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
