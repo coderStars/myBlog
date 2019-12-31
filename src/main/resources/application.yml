@@ -13,3 +13,5 @@ logging:
     com.edjblog: debug
   file:
     name: log/blog.log
+  pattern:
+    level:
