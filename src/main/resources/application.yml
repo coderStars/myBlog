@@ -1,0 +1,8 @@
+server:
+  port: 8088
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql//localhost3306/pinyougoudb?useUnicode=true&characterEncoding=utf-8
+    username: root
+    password: 123456
