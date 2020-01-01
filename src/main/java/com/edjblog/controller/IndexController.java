@@ -15,6 +15,8 @@ public class IndexController {
 //        if(blog == null){
 //            throw new NotFoundException("博客找不到啦");
 //        }
+        String s = "111";
+        System.out.println(s.length());
         System.out.println("===============");
         return "index";
     }

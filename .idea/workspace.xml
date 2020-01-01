@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e8816cb-6d75-4f76-ab29-a5bcec31196b" name="Default Changelist" comment="全局配置文件">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/_fragments.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/blog.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/blog.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/edjblog/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/controller/IndexController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/blogs-input.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/blogs-input.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/blogs.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/blogs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/archives.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/archives.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/tags.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/types.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/types.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/edjblog/controller/IndexController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edjblog/controller/IndexController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/blogs-input.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/blogs-input.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/admin/blogs.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/admin/blogs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/archives.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/archives.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/tags.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/types.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/types.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +121,8 @@
       <workItem from="1577761633705" duration="1455000" />
       <workItem from="1577763758267" duration="10025000" />
       <workItem from="1577795256383" duration="7105000" />
-      <workItem from="1577803563902" duration="2856000" />
+      <workItem from="1577803563902" duration="2968000" />
+      <workItem from="1577848039128" duration="438000" />
     </task>
     <task id="LOCAL-00001" summary="swagger配置文件">
       <created>1577765947168</created>
@@ -222,38 +204,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577802476262" />
-    <state width="1322" height="207" key="GridCell.Tab.0.bottom" timestamp="1577803916443">
+    <state width="1322" height="207" key="GridCell.Tab.0.bottom" timestamp="1577806535492">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="207" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577803916443" />
-    <state width="1322" height="207" key="GridCell.Tab.0.center" timestamp="1577803916443">
+    <state width="1322" height="207" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577806535492" />
+    <state width="1322" height="207" key="GridCell.Tab.0.center" timestamp="1577806535491">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="207" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577803916443" />
-    <state width="1322" height="207" key="GridCell.Tab.0.left" timestamp="1577803916442">
+    <state width="1322" height="207" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577806535491" />
+    <state width="1322" height="207" key="GridCell.Tab.0.left" timestamp="1577806535491">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="207" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577803916442" />
-    <state width="1322" height="207" key="GridCell.Tab.0.right" timestamp="1577803916443">
+    <state width="1322" height="207" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577806535491" />
+    <state width="1322" height="207" key="GridCell.Tab.0.right" timestamp="1577806535491">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="207" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577803916443" />
-    <state width="1322" height="207" key="GridCell.Tab.1.bottom" timestamp="1577803916443">
+    <state width="1322" height="207" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577806535491" />
+    <state width="1322" height="207" key="GridCell.Tab.1.bottom" timestamp="1577806535492">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="207" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577803916443" />
-    <state width="1322" height="207" key="GridCell.Tab.1.center" timestamp="1577803916443">
+    <state width="1322" height="207" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577806535492" />
+    <state width="1322" height="207" key="GridCell.Tab.1.center" timestamp="1577806535492">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="207" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577803916443" />
-    <state width="1322" height="207" key="GridCell.Tab.1.left" timestamp="1577803916443">
+    <state width="1322" height="207" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577806535492" />
+    <state width="1322" height="207" key="GridCell.Tab.1.left" timestamp="1577806535492">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="207" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577803916443" />
-    <state width="1322" height="207" key="GridCell.Tab.1.right" timestamp="1577803916443">
+    <state width="1322" height="207" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577806535492" />
+    <state width="1322" height="207" key="GridCell.Tab.1.right" timestamp="1577806535492">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="207" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577803916443" />
+    <state width="1322" height="207" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577806535492" />
     <state width="1322" height="217" key="GridCell.Tab.2.bottom" timestamp="1577776305805">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -278,10 +260,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="434" y="195" key="SimpleOpenTaskDialog/0.0.1366.728@0.0.1366.728" timestamp="1577772150974" />
-    <state x="363" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1577795256350">
+    <state x="363" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1577848040535">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="363" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577795256350" />
+    <state x="363" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577848040535" />
     <state x="475" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577766122372">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
