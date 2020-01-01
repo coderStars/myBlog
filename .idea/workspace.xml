@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5e8816cb-6d75-4f76-ab29-a5bcec31196b" name="Default Changelist" comment="全局配置文件">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edjblog/BlogApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/BlogApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/edjblog/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/controller/IndexController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,7 +123,9 @@
       <workItem from="1577763758267" duration="10025000" />
       <workItem from="1577795256383" duration="7105000" />
       <workItem from="1577803563902" duration="2968000" />
-      <workItem from="1577848039128" duration="438000" />
+      <workItem from="1577848039128" duration="633000" />
+      <workItem from="1577849012710" duration="3644000" />
+      <workItem from="1577878677119" duration="2680000" />
     </task>
     <task id="LOCAL-00001" summary="swagger配置文件">
       <created>1577765947168</created>
@@ -260,10 +263,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="434" y="195" key="SimpleOpenTaskDialog/0.0.1366.728@0.0.1366.728" timestamp="1577772150974" />
-    <state x="363" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1577848040535">
+    <state x="363" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1577878677199">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="363" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577848040535" />
+    <state x="363" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577878677199" />
     <state x="475" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577766122372">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
