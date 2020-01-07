@@ -4,7 +4,7 @@ import io.swagger.annotations.Api;
 
 import java.util.Date;
 
-@Api("博客实体")
+@Api("博客实体1")
 
 public class Blog {
 
