@@ -1,4 +1,4 @@
-package com.edjblog;
+package com.edjblog.service;
 
 import com.edjblog.pojo.User;
 

@@ -1,4 +1,11 @@
 package com.edjblog.service;
 
-public class UserServiceImpl {
+import com.edjblog.pojo.User;
+
+public class UserServiceImpl implements UserService {
+
+    @Override
+    public User checkUser(String username, String password) {
+        return null;
+    }
 }

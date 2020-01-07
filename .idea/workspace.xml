@@ -2,9 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e8816cb-6d75-4f76-ab29-a5bcec31196b" name="Default Changelist" comment="全局配置文件">
+      <change afterPath="$PROJECT_DIR$/target/classes/com/edjblog/controller/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/edjblog/generatorSqlmapCustom/GeneratorSqlmap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/edjblog/pojo/Blog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/edjblog/pojo/Comment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/edjblog/pojo/Tag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/edjblog/pojo/Type.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/edjblog/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/edjblog/service/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edjblog/BlogApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/BlogApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edjblog/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/blog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/blog.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/blog.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edjblog/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edjblog/generatorSqlmapCustom/GeneratorSqlmap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/generatorSqlmapCustom/GeneratorSqlmap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edjblog/pojo/Blog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/pojo/Blog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edjblog/pojo/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/pojo/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edjblog/pojo/Tag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/pojo/Tag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edjblog/pojo/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/pojo/Type.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edjblog/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edjblog/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/edjblog/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/edjblog/controller/IndexController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edjblog/controller/IndexController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/edjblog/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edjblog/pojo/User.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,13 +38,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -60,6 +86,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ IDEA\workSpace_idea\blog\src\main\resources\templates\admin" />
+      <recent name="D:\IntelliJ IDEA\workSpace_idea\blog" />
       <recent name="D:\IntelliJ IDEA\workSpace_idea\blog\src\main\resources\templates" />
       <recent name="D:\IntelliJ IDEA\workSpace_idea\blog\src\main\resources\static" />
     </key>
@@ -70,15 +98,9 @@
       <recent name="D:\IntelliJ IDEA\workSpace_idea\blog\src\main\resources\static\css" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.BlogApplication (1)">
-    <configuration name="BlogApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Spring Boot.BlogApplication">
+    <configuration name="BlogApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="blog" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.edjblog.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.edjblog.BlogApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +113,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Spring Boot.BlogApplication (1)" />
-      </list>
-    </recent_temporary>
+    <configuration name="BlogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edjblog.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.edjblog.BlogApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -125,7 +155,10 @@
       <workItem from="1577803563902" duration="2968000" />
       <workItem from="1577848039128" duration="633000" />
       <workItem from="1577849012710" duration="3644000" />
-      <workItem from="1577878677119" duration="2680000" />
+      <workItem from="1577878677119" duration="5299000" />
+      <workItem from="1577929564983" duration="6294000" />
+      <workItem from="1578065621215" duration="114000" />
+      <workItem from="1578409085440" duration="358000" />
     </task>
     <task id="LOCAL-00001" summary="swagger配置文件">
       <created>1577765947168</created>
@@ -187,10 +220,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="863" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1577774681486" />
-    <state x="872" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1577799158715">
+    <state x="872" y="94" key="#com.intellij.ide.util.MemberChooser" timestamp="1577949797327">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="872" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1577799158715" />
+    <state x="872" y="94" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1577949797327" />
     <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577801083610">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -203,42 +236,42 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1577766125289" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1577802476262">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1578065733455">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577802476262" />
-    <state width="1322" height="207" key="GridCell.Tab.0.bottom" timestamp="1577806535492">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578065733455" />
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1577962145607">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="207" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577806535492" />
-    <state width="1322" height="207" key="GridCell.Tab.0.center" timestamp="1577806535491">
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577962145607" />
+    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1577962145606">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="207" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577806535491" />
-    <state width="1322" height="207" key="GridCell.Tab.0.left" timestamp="1577806535491">
+    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577962145606" />
+    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1577962145606">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="207" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577806535491" />
-    <state width="1322" height="207" key="GridCell.Tab.0.right" timestamp="1577806535491">
+    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577962145606" />
+    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1577962145607">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="207" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577806535491" />
-    <state width="1322" height="207" key="GridCell.Tab.1.bottom" timestamp="1577806535492">
+    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577962145607" />
+    <state width="1322" height="179" key="GridCell.Tab.1.bottom" timestamp="1577962145607">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="207" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577806535492" />
-    <state width="1322" height="207" key="GridCell.Tab.1.center" timestamp="1577806535492">
+    <state width="1322" height="179" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577962145607" />
+    <state width="1322" height="179" key="GridCell.Tab.1.center" timestamp="1577962145607">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="207" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577806535492" />
-    <state width="1322" height="207" key="GridCell.Tab.1.left" timestamp="1577806535492">
+    <state width="1322" height="179" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577962145607" />
+    <state width="1322" height="179" key="GridCell.Tab.1.left" timestamp="1577962145607">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="207" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577806535492" />
-    <state width="1322" height="207" key="GridCell.Tab.1.right" timestamp="1577806535492">
+    <state width="1322" height="179" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577962145607" />
+    <state width="1322" height="179" key="GridCell.Tab.1.right" timestamp="1577962145607">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="207" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577806535492" />
+    <state width="1322" height="179" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577962145607" />
     <state width="1322" height="217" key="GridCell.Tab.2.bottom" timestamp="1577776305805">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -255,6 +288,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="217" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1577776305805" />
+    <state x="129" y="54" key="MergeDialog" timestamp="1578409353458">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="54" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1578409353458" />
+    <state x="392" y="78" key="MultipleFileMergeDialog" timestamp="1578409353470">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="78" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1578409353470" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1577803570081">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -263,14 +304,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="434" y="195" key="SimpleOpenTaskDialog/0.0.1366.728@0.0.1366.728" timestamp="1577772150974" />
-    <state x="363" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1577878677199">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1578409397322">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="363" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577878677199" />
-    <state x="475" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577766122372">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1578409397322" />
+    <state x="363" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1578065621206">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="475" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1577766122372" />
+    <state x="363" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578065621206" />
+    <state x="475" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578409165974">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="475" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1578409165974" />
     <state x="448" y="81" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1577764969476">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -279,10 +324,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="96" y="25" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1577797523471" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1577799494872">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1577952405602">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1577799494872" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1577952405602" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
