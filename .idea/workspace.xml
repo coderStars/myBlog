@@ -1,34 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e8816cb-6d75-4f76-ab29-a5bcec31196b" name="Default Changelist" comment="全局配置文件">
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edjblog/controller/LoginController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edjblog/generatorSqlmapCustom/GeneratorSqlmap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edjblog/pojo/Blog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edjblog/pojo/Comment.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edjblog/pojo/Tag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edjblog/pojo/Type.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edjblog/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/edjblog/service/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/login.html" afterDir="false" />
+    <list default="true" id="5e8816cb-6d75-4f76-ab29-a5bcec31196b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/blog.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/blog.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/blog.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edjblog/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/controller/LoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edjblog/generatorSqlmapCustom/GeneratorSqlmap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/generatorSqlmapCustom/GeneratorSqlmap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edjblog/pojo/Blog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/pojo/Blog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edjblog/pojo/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/pojo/Comment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edjblog/pojo/Tag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/pojo/Tag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edjblog/pojo/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/pojo/Type.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edjblog/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/pojo/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edjblog/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/edjblog/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/edjblog/service/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/edjblog/controller/IndexController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edjblog/controller/IndexController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/edjblog/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/edjblog/pojo/User.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +132,7 @@
       <workItem from="1577878677119" duration="5299000" />
       <workItem from="1577929564983" duration="6294000" />
       <workItem from="1578065621215" duration="114000" />
-      <workItem from="1578409085440" duration="358000" />
+      <workItem from="1578409085440" duration="871000" />
     </task>
     <task id="LOCAL-00001" summary="swagger配置文件">
       <created>1577765947168</created>
@@ -188,7 +162,21 @@
       <option name="project" value="LOCAL" />
       <updated>1577766053281</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="全局配置文件">
+      <created>1578409549943</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578409549943</updated>
+    </task>
+    <task id="LOCAL-00007" summary="全局配置文件">
+      <created>1578409905665</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1578409905665</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,18 +208,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="863" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1577774681486" />
-    <state x="872" y="94" key="#com.intellij.ide.util.MemberChooser" timestamp="1577949797327">
+    <state x="872" y="94" key="#com.intellij.ide.util.MemberChooser" timestamp="1578409664566">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="872" y="94" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1577949797327" />
+    <state x="872" y="94" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1578409664566" />
     <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577801083610">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1577801083610" />
-    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1577766065033">
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1578409903666">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577766065033" />
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578409903666" />
     <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1577766125289">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -288,14 +276,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="217" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1577776305805" />
-    <state x="129" y="54" key="MergeDialog" timestamp="1578409353458">
+    <state x="129" y="54" key="MergeDialog" timestamp="1578409853780">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="129" y="54" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1578409353458" />
-    <state x="392" y="78" key="MultipleFileMergeDialog" timestamp="1578409353470">
+    <state x="129" y="54" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1578409853780" />
+    <state x="392" y="78" key="MultipleFileMergeDialog" timestamp="1578409853785">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="392" y="78" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1578409353470" />
+    <state x="392" y="78" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1578409853785" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1577803570081">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -304,18 +292,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="434" y="195" key="SimpleOpenTaskDialog/0.0.1366.728@0.0.1366.728" timestamp="1577772150974" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1578409397322">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1578409927884">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1578409397322" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1578409927884" />
     <state x="363" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1578065621206">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="363" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578065621206" />
-    <state x="475" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578409165974">
+    <state x="475" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578409805097">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="475" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1578409165974" />
+    <state x="475" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1578409805097" />
     <state x="448" y="81" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1577764969476">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
