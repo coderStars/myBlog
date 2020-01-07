@@ -4,7 +4,7 @@ import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 
-@ApiModel("用户实体")
+@ApiModel("用户实体1")
 public class User {
     @ApiModelProperty("用户ID")
     private Integer id;
